@@ -3,8 +3,6 @@ Welcome to the Fly-by-Night Airlines Customer Service Database.
 
 This database documents our current customer and flight information, and allows you to use administrative permissions in order to update it.
 
-We highly recommend updating your computer’s C++ installation, as well as maintaining the current version of NCurses on your system. These are crucial for allowing the application to function with full functionality. Upon launching the application interface, you will be presented with a numbered list of database options that will allow you to perform different administration tasks.
-
 Below is a guided documentation of the abilities:
 
 Creating a new customer object allows you to initialize and declare a new customer object, which is inherited from the user class. This will enter the customer information into our database, allowing it to be used at a later time. To complete, enter the first name, address, and all other information needed (strings/ints will be uniquely prompted and error-proofed).
